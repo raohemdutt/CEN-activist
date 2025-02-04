@@ -17,4 +17,4 @@ header:
     - '**/.git/**'
     - '**/*__init__.py'
   comment: on-failure
-  license-location-threshold: 10# Test change
+  license-location-threshold: 10
